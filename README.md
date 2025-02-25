@@ -5,5 +5,5 @@ Developing a mathematical model of flocculation and clarification.
 Anjali Asthagiri aa2549@cornell.edu <br>
 Alex Gardocki rag325@cornell.edu <br>
 Lauren Hsu lkh58@cornell.edu <br>
-Isabel Crovella isc25@cornell.edu
+Isabel Crovella isc25@cornell.edu <br>
 Max Zheng hz687@cornell.edu
